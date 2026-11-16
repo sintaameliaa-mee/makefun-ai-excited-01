@@ -1,5 +1,11 @@
 # The Marble — ai-excited-01 entry
 
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/sintaameliaa-mee/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/sintaameliaa-mee/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
+Built for the [ai-excited-01 bounty on make.fun](https://make.fun/bounty/ai-excited-01).
+
 A colossal glass marble the size of a city block rolling down a narrow city
 street at golden hour. The entire sunset cityscape is reflected upside-down
 inside its glowing sphere while tiny silhouetted people scatter at its base.
